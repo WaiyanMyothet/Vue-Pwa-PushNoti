@@ -8,13 +8,15 @@ View application at https://vuepushnoti.firebaseapp.com/. But it won't reply any
 
 1. Set up Firebase prj at https://firebase.google.com/docs/web/setup 
 
-2. Replace firebase config in main.js
+2. Setup Javascript client at https://firebase.google.com/docs/cloud-messaging/js/client
 
-3. create firebase-messaging-sw.js file in public folder.
+3. Replace firebase config in main.js
 
-4. get Authentication Bearer from Firebase
+4. create firebase-messaging-sw.js file in public folder.
 
-5. Learn to test at https://firebase.google.com/docs/cloud-messaging/js/send-multiple
+5. get Authentication Bearer from Firebase
+
+6. Learn to test at https://firebase.google.com/docs/cloud-messaging/js/send-multiple
 
 
 ## Get Authentication Bearer from Firebase
