@@ -1,7 +1,7 @@
 ## Demo
 
 
-View application at https://vuepushnoti.firebaseapp.com/. But it won't reply anything as I didn't setup backend.
+View application at https://vuepushnoti.firebaseapp.com/.
 
 ## Steps
 
